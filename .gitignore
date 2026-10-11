@@ -1,0 +1,23 @@
+# Unrelated local documents and report generator
+/高职院校二手教材在线交易系统项目报告.docx
+/高职院校二手教材在线交易系统项目报告.md
+/任务书提取文本.txt
+/generate_report.ps1
+/I Think Therefore I Am - Cogito and Online Identity_with_footnotes.docx
+
+# Report build artifacts
+/_docx_build/
+/高职院校二手教材在线交易系统项目报告_修正版_姓名学号待填写.docx
+/高职院校二手教材在线交易系统项目报告_修正版_姓名学号待填写.md
+
+# Local secrets and temporary files
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+*.tmp
+*.log
+~$*
+.DS_Store
+Thumbs.db
